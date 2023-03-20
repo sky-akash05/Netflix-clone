@@ -207,6 +207,7 @@ input[type="radio"] {
 .faq .sign-up {
   max-width: 600px;
   margin: 20px auto 60 px;
+  justify-content:center;
 }
 .faq small {
   font-size: 13px;
